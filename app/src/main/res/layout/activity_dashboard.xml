@@ -45,6 +45,8 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical"
                     android:layout_gravity="center"
+                    android:id="@+id/vlocity"
+                    android:onClick="vlocitybtn"
                     >
 
                     <ImageView
@@ -90,6 +92,8 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical"
                     android:layout_gravity="center"
+                    android:id="@+id/distance"
+                    android:onClick="distancebtn"
                     >
 
                     <ImageView
@@ -134,6 +138,9 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical"
                     android:layout_gravity="center"
+                    android:id="@+id/about"
+                    android:onClick="aboutbtn"
+
                     >
 
                     <ImageView
@@ -178,6 +185,9 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical"
                     android:layout_gravity="center"
+
+                    android:id="@+id/exit"
+                    android:onClick="exitbtn"
                     >
 
                     <ImageView
