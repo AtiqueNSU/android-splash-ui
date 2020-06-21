@@ -51,7 +51,7 @@
         android:layout_marginBottom="32dp"
 
         android:gravity="center_horizontal"
-        android:text="A App to Mesurment VelocitY"
+        android:text="The App to Measurment VelocitY"
         android:textAlignment="center"
         android:textSize="18sp"
         app:fontFamily="@font/antic"
